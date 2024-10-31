@@ -1,5 +1,6 @@
-## Hi there 👋
+##  Hola, soy Ricardo👋
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:ricardo250506@gmail.com)
 <!--
 **RPrieto25/RPrieto25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
