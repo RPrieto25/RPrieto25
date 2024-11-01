@@ -1,4 +1,4 @@
-### <b> Hi, I'm Ricardo Prieto </b>
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B0FC38&width=435&lines=Hi+there+;I+am+Ricardo+Prieto.)](https://git.io/typing-svg)
 A programming enthusiast and a student from Venezuela
 <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 <br><br><br><br><br><br><br><br><br>
