@@ -1,6 +1,9 @@
-### Hi, I'm Ricardo Prieto 
+### <b> Hi, I'm Ricardo Prieto </b>
 A programming enthusiast and a student from Venezuela
-## <b> Skills </b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+<img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<br><br><br><br><br><br><br><br><br>
+
+### <b> Skills </b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <p align='left'>
 <a href="https://www.python.org/" target="_blank"><img height="30" src="https://img.shields.io/badge/-Python-%23333?style=for-the-badge&logo=Python&logoColor=B0FC38"></a>&nbsp;&nbsp;
 <a href="https://code.visualstudio.com/docs/languages/cpp" target="_blank"><img height="30" src="https://img.shields.io/badge/-C++-%23333?style=for-the-badge&logo=cplusplus&logoColor=B0FC38&"></a>&nbsp;&nbsp;
@@ -9,14 +12,14 @@ A programming enthusiast and a student from Venezuela
 <a href="https://code.visualstudio.com/" target="_blank"><img height="30" src="https://img.shields.io/badge/-VS Code-%23333?style=for-the-badge&logo=VSCode&logoColor=B0FC38"></a>&nbsp;&nbsp;
  </p>
                                                                 
-## <b> Socials <b> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> 
+### <b> Socials <b> <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> 
 <p align='left'>
    <a target="_blank"><img height="30" src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=Linkedin&logoColor=B0FC38"></a>&nbsp;&nbsp;      
 <a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=B0FC38&link=mailto:ricardo250506@gmail.com"></a>&nbsp;&nbsp;
     <a href="https://github.com/UjwalKandi" target="_blank"><img height="30" src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=B0FC38&link=mailto:ricardo250506@gmail.com"></a>&nbsp;&nbsp;
  </p>
 
-## <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
+### <b> Github Stats </b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">
 <p align="center">
 <table>
     <tr>
@@ -39,74 +42,6 @@ A programming enthusiast and a student from Venezuela
     </tr>
 </table>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Hi, I'm Ricardo Prieto
-A programming enthusiast and a student from Venezuela
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b> 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-
-## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> Socials
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:ricardo250506@gmail.com)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
-<div align="center">
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/RPrieto25/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RPrieto25&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="RPrieto25 Github stats" />
-            </a>
-            <a href="https://github.com/RPrieto25/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RPrieto25&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="RPrieto25 Github stats" />
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/RPrieto25/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RPrieto25&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="RPrieto25 Language stats" />
-            </a>
-            <a href="https://github.com/RPrieto25/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RPrieto25&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="RPrieto25 Language stats" />
-            </a>
-        </td>
-    </tr>
-</table>
 
 
 <!--
